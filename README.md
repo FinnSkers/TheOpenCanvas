@@ -158,3 +158,4 @@ npm run build
 ## 📄 License
 
 MIT License. Have fun creating chaos!
+"# TheOpenCanvas" 
